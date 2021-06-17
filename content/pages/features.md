@@ -3,7 +3,7 @@ title: Features
 sections:
   - section_id: features
     type: section_content
-    background: gray
+    background: white
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
