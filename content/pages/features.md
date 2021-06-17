@@ -32,7 +32,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Uploadez votre média à transcrire
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Le résultat ne prendra que queques secondes
     actions:
       - label: Get Started
         url: '#'
