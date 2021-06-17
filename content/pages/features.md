@@ -34,7 +34,7 @@ sections:
     title: Uploadez votre média à transcrire
     subtitle: Le résultat ne prendra que queques secondes
     actions:
-      - label: Choisir
+      - label: Choisir un fichier
         url: '#'
         style: secondary
 seo:
